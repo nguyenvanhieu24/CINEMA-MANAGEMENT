@@ -1,0 +1,712 @@
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll.config
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.pdb
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe.config
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.rsp
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe.config
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.rsp
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.AppContext.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Console.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Http.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe.config
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.rsp
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\WebGrease.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.pdb
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csprojAssemblyReference.cache
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CopyComplete
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.Migrations.update.resources
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\PagedList.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\PagedList.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll.config
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.pdb
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\PagedList.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\WebGrease.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\PagedList.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.Migrations.update.resources
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.dll
+C:\Users\Admin\Desktop\RapChieuPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csprojAssemblyReference.cache
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.Migrations.update.resources
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll.config
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.pdb
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe.config
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.rsp
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe.config
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.rsp
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.AppContext.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Console.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Http.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.ValueTuple.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe.config
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.rsp
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\BouncyCastle.Crypto.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\PagedList.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Buffers.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Memory.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Numerics.Vectors.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\WebGrease.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\BouncyCastle.Crypto.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.pdb
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.pdb
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\PagedList.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Buffers.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Memory.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Numerics.Vectors.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.pdb
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CopyComplete
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\log4net.dll
+E:\web\RapPhim\RapChieuPhim\RapChieuPhim\bin\log4net.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll.config
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.pdb
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe.config
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.rsp
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe.config
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.rsp
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.AppContext.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Console.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Http.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe.config
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.rsp
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\BouncyCastle.Crypto.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\EntityFramework.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\log4net.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\PagedList.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Buffers.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Memory.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Numerics.Vectors.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\WebGrease.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\BouncyCastle.Crypto.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\EntityFramework.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.pdb
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.pdb
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\log4net.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\PagedList.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Buffers.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Memory.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Numerics.Vectors.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.pdb
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.Migrations.update.resources
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CopyComplete
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.dll
+C:\Users\Luu Pot\Desktop\RapPhim\RapPhim-master\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll.config
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.pdb
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe.config
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.rsp
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe.config
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.rsp
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.AppContext.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Console.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Http.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe.config
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.rsp
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\BouncyCastle.Crypto.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\EntityFramework.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\log4net.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\PagedList.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Buffers.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Memory.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Numerics.Vectors.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\WebGrease.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\BouncyCastle.Crypto.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\EntityFramework.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.pdb
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.pdb
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\log4net.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\PagedList.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Buffers.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Memory.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Numerics.Vectors.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.pdb
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.Migrations.update.resources
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CopyComplete
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.dll
+C:\Users\MSI GF63\Documents\New folder (3)\New folder\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll.config
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.pdb
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe.config
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.rsp
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe.config
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.rsp
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.AppContext.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Console.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Http.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe.config
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.rsp
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\BouncyCastle.Crypto.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\EntityFramework.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\log4net.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\PagedList.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Buffers.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Memory.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Numerics.Vectors.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\WebGrease.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\BouncyCastle.Crypto.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\EntityFramework.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.pdb
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.pdb
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\log4net.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\PagedList.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Buffers.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Memory.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Numerics.Vectors.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.pdb
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.Migrations.update.resources
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CopyComplete
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.dll
+C:\Users\MSI GF63\Documents\New folder (3)\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll.config
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.pdb
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe.config
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.rsp
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe.config
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.rsp
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.AppContext.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Console.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Http.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.ValueTuple.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe.config
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.rsp
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\BouncyCastle.Crypto.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\EntityFramework.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\log4net.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\PagedList.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Buffers.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Memory.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Numerics.Vectors.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\WebGrease.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\BouncyCastle.Crypto.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\EntityFramework.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.pdb
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Google.Api.CommonProtos.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.pdb
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Google.Protobuf.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\log4net.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\PagedList.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Buffers.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Memory.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Numerics.Vectors.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.pdb
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.AssemblyReference.cache
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.Migrations.update.resources
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CopyComplete
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.dll
+C:\Users\MSI GF63\Documents\Code C# Winform ASP.NET MVC\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.pdb

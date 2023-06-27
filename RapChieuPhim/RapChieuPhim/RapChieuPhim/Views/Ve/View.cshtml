@@ -1,0 +1,107 @@
+﻿
+@{
+    ViewBag.Title = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{ var phim = (RapChieuPhim.ViewModel.PhimViewModel)ViewData["phimmodel"];
+    var vexemphim = (RapChieuPhim.Models.Ve)ViewData["VeData"];
+    var taikhoan = (RapChieuPhim.Models.TaiKhoan)Session["USERSESSIO"];}}
+
+<h2>View</h2>
+
+<div class="hero user-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="hero-ct">
+                    <h1>Edward kennedy’s profile</h1>
+                    <ul class="breadcumb">
+                        <li class="active"><a href="#">Home</a></li>
+                        <li> <span class="ion-ios-arrow-right"></span>Profile</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-single">
+    <div class="container">
+        <div class="row ipad-width">
+            <div class="col-md-3 col-sm-12 col-xs-12">
+                <div class="user-information">
+                    <div class="user-img">
+                        <a href="#"><img src="~/Content/Upload/image/@phim.AnhPhim" alt=""><br></a>
+                    </div>
+                    <div class="user-fav">
+                        <h3>@phim.TenPhim</h3>
+                        <ul>
+                            <li class="active"><a>Năm :@phim.NamPhatHanh</a></li>
+                            <li><a>Thể Loại:@phim.TenLoai</a></li>
+                            <li><a>Thời Lượng:@phim.ThoiLuong (phút)</a></li>
+                            <li><a>Đạo Diễn:@phim.DaoDien </a></li>
+                            <li><a>Diễn Viên:@phim.DienVien </a></li>
+                            <li><a>Ngày Công Chiếu:@phim.NgayCongChieu </a></li>
+                            <li><a>Ngày Kết Thúc:@phim.NgayKetThuc </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-9 col-sm-12 col-xs-12">
+                <div class="form-style-1 user-pro" action="#">
+                    <div class="user">
+                        <h4>Đặt Vé Xem Phim</h4>
+                        <div class="row">
+                            <div class="col-md-6 form-it">
+                                <label>Tên Người Dùng</label>
+                                <h4>@taikhoan.ThongTin.TenNguoiDung</h4>
+                            </div>
+                            <div class="col-md-6 form-it">
+                                <label>Số Điện Thoại</label>
+                                <h4>@taikhoan.ThongTin.Email</h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 form-it">
+                                <label>Lịch Chiếu</label>
+                                <h4>Ngày Chiếu:@vexemphim.LichChieu.NgayChieu</h4>
+                                <h4>Giờ Chiếu:@vexemphim.LichChieu.GioBatDau</h4>
+                                <h4>Giờ Kết Thúc:@vexemphim.LichChieu.GioKetThuc</h4>
+                                <h4>Phòng :@vexemphim.LichChieu.Phong.TenPhong</h4>
+                            </div>
+                            <div class="col-md-6 form-it">
+                                <label>Ghế</label>
+                                <h4>SỐ LƯỢNG GHẾ:@vexemphim.Soluong</h4>
+                                <h4>TÊN GHẾ:</h4>
+                                <h4>Loại Ghế</h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 form-it">
+                                <label>Rap Chiếu Phim</label>
+                                <h4>Tên Rap:@vexemphim.RapPhim.TenRapChieu</h4>
+                                <h4>Địa Chỉ:@vexemphim.RapPhim.ThanhPho-@vexemphim.RapPhim.QuanHuyen-@vexemphim.RapPhim.PhuongXa</h4>
+
+                            </div>
+                            <div class="col-md-6 form-it">
+                                <label>Giá Vé</label>
+                                <h3>Giá Tiền:@vexemphim.GiaVe</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 form-it">
+                                <label>Hình Thức Thành Toán </label>
+                                <h1>"Đến tại quầy thành toán hoặc chuyển khoản qua.."</h1>
+
+                            </div>
+                            <div class="col-md-6 form-it">
+                                <label>Note</label>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

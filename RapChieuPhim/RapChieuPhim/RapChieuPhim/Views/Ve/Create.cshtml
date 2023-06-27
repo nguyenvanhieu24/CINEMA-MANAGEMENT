@@ -1,0 +1,115 @@
+﻿
+@{
+    ViewBag.Title = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{ var phim = (RapChieuPhim.ViewModel.PhimViewModel)ViewData["phimmodel"];
+    var vexemphim = (RapChieuPhim.Models.Ve)ViewData["VeData"];
+    var taikhoan = (RapChieuPhim.Models.TaiKhoan)Session["USERSESSIO"];
+    var rapphim = (RapChieuPhim.Models.RapPhim)ViewData["RAP"];
+    var lichchieu = (RapChieuPhim.Models.LichChieu)ViewData["lichChieu"];
+    var ghe = (RapChieuPhim.Models.Ghe)ViewData["Ghe"];}} 
+
+<h2>View</h2>
+
+<div class="hero user-hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="hero-ct">
+                    <h1>Edward kennedy’s profile</h1>
+                    <ul class="breadcumb">
+                        <li class="active"><a href="#">Home</a></li>
+                        <li> <span class="ion-ios-arrow-right"></span>Profile</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-single">
+    <div class="container">
+        <div class="row ipad-width">
+            <div class="col-md-3 col-sm-12 col-xs-12">
+                <div class="user-information">
+                    <div class="user-img">
+                        <a href="#"><img src="/Content/Upload/Image/@phim.AnhPhim" alt=""><br></a>
+                    </div>
+                    <div class="user-fav">
+                        <h3>@phim.TenPhim</h3>
+                        <ul>
+                            <li class="active"><a>Năm :@phim.NamPhatHanh</a></li>
+                            <li><a>Thể Loại:@phim.TenLoai</a></li>
+                            <li><a>Thời Lượng:@phim.ThoiLuong (phút)</a></li>
+                            <li><a>Đạo Diễn:@phim.DaoDien </a></li>
+                            <li><a>Diễn Viên:@phim.DienVien </a></li>
+                            <li><a>Ngày Công Chiếu:@phim.NgayCongChieu </a></li>
+                            <li><a>Ngày Kết Thúc:@phim.NgayKetThuc </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-9 col-sm-12 col-xs-12">
+                <div class="form-style-1 user-pro" action="#">
+                    <div class="user">
+                        <h4>Đặt Vé Xem Phim</h4>
+                        <div class="row">
+                            <div class="col-md-6 form-it">
+                                <label>Tên Người Dùng</label>
+                                <h4>@taikhoan.ThongTin.TenNguoiDung</h4>
+                            </div>
+                            <div class="col-md-6 form-it">
+                                <label>Số Điện Thoại</label>
+                                <h4>@taikhoan.ThongTin.Email</h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 form-it">
+                                <label>Lịch Chiếu</label>
+                                <h4>Ngày Chiếu:@lichchieu.NgayChieu</h4>
+                                <h4>Giờ Chiếu:@lichchieu.GioBatDau</h4>
+                                <h4>Giờ Kết Thúc:@lichchieu.GioKetThuc</h4>
+                                <h4>Phòng :@lichchieu.Phong.TenPhong</h4>
+                            </div>
+                            <div class="col-md-6 form-it">
+                                <label>Ghế</label>
+                                <h4>SỐ LƯỢNG GHẾ:@vexemphim.Soluong</h4>
+                                <h4>TÊN GHẾ:@ghe.TenGhe </h4>
+                                <h4>Loại Ghế:@ghe.LoaiGhe.TenLoaiGhe</h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 form-it">
+                                <label>Rap Chiếu Phim</label>
+                                <h4>Tên Rap:@rapphim.TenRapChieu</h4>
+                                <h4>Địa Chỉ:@rapphim.ThanhPho-@rapphim.QuanHuyen-@rapphim.PhuongXa</h4>
+
+                            </div>
+                            <div class="col-md-6 form-it">
+                                <label>Giá Vé</label>
+                                <h3>Giá Tiền:@vexemphim.GiaVe</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 form-it">
+                                <label>Hình Thức Thành Toán </label>
+                                <div class="radio">
+                                    <label><input type="radio" name="optradio" checked>Option 1</label>
+                                </div>
+                                <div class="radio">
+                                    <label><input type="radio" name="optradio">Option 2</label>
+                                </div>
+
+                            </div>
+                            <div class="col-md-6 form-it">
+                                <label>Note</label>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
